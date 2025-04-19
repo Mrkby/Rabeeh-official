@@ -1,0 +1,14 @@
+.main{
+     background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://wallpapercave.com/wp/wp4782136.jpg);
+     width: 100%; 
+     background-position: center;
+     background-size: fluid;
+     
+
+}
+img{
+     transition: transform.3s ease;
+}
+img:hover{
+ transform: scale(1.1);
+}
